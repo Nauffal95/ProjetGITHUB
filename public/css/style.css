@@ -57,4 +57,7 @@ body{
     position: relative;
     top: 45px;
     left: 50px;
+.card3{
+    position: relative;
+    left: -10%;
 }
