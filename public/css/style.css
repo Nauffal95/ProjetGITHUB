@@ -17,7 +17,7 @@ body{
 }
 .footer{
     background-color: rgb(44, 48, 44);
-    height: 70px;
+    height: 120px;
     text-align: center;
 
 }
@@ -26,4 +26,9 @@ body{
 }
 .arobas{
     color: cadetblue;
+}
+.icon:hover{
+    font-size: 40px;
+    background-color: rgb(44, 48, 44);
+    border-radius: 15%;   
 }
