@@ -19,7 +19,7 @@ body{
     background-color: rgb(44, 48, 44);
     height: 120px;
     text-align: center;
-
+    
 }
 .regle{
     color: cadetblue;
@@ -60,4 +60,18 @@ body{
 .card3{
     position: relative;
     left: -10%;
+}
+.inscription{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    margin-bottom: 250px;
+
+}
+.videoyoutube{
+    border-radius: 10%;
+}
+.youtube{
+    display: flex;
+    justify-content: center;
 }
