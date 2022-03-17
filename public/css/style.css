@@ -7,10 +7,23 @@
 }
 body{
     
-    background-image: url(/public/img/background-anonymous.jpeg);
+    background-image: url("/public/img/background-anonymous.jpeg");
     background-size: cover;
 }
 .navbar-text{
     position: relative;
-    right: -300px;
+    right: -290px;
+}
+.twitter{
+    position: absolute;
+    right: 10px;
+    top: 300px;
+    margin: 0;
+}
+#carouselExampleCaptions{
+    width: 60%;
+    height: auto;
+    position: relative;
+    top: 45px;
+    left: 50px;
 }
