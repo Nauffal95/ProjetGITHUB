@@ -1,8 +1,17 @@
+body{
+    
+    background-image: url(/public/img/background-anonymous.jpeg);
+    background-size: cover;
+}
 .titre{
     text-align: center;
     color: black;
 }
-.card1{
+.anonymous_bannière{
+    height: auto;
+    width:100%;
+}
+.navbar-text{
     position: relative;
-    right: 1%;
+    right: -300px;
 }
