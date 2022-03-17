@@ -7,6 +7,10 @@
 }
 body{
     
-    background-image: url(/img/background-anonymous.jpeg);
+    background-image: url(/public/img/background-anonymous.jpeg);
     background-size: cover;
+}
+.navbar-text{
+    position: relative;
+    right: -300px;
 }
