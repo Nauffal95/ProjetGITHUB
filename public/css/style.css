@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+.anonymous_bannière{
+    height: auto;
+    width:100%;
+}
+body{
+    
+    background-image: url(/img/background-anonymous.jpeg);
+    background-size: cover;
+}
