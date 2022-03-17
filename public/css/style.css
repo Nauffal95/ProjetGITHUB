@@ -1,6 +1,6 @@
 body{
     
-    background-image: url(/public/img/background-anonymous.jpeg);
+    background-image: url("/public/img/background-anonymous.jpeg");
     background-size: cover;
 }
 .titre{
@@ -14,4 +14,16 @@ body{
 .navbar-text{
     position: relative;
     right: -300px;
+}
+.footer{
+    background-color: rgb(44, 48, 44);
+    height: 70px;
+    text-align: center;
+
+}
+.regle{
+    color: cadetblue;
+}
+.arobas{
+    color: cadetblue;
 }
