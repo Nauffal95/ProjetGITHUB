@@ -59,8 +59,16 @@ body{
     left: 50px;
 }
 .inscription{
-    position: relative;
-    left: 45%;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    margin-bottom: 250px;
 
 }
-)
+.videoyoutube{
+    border-radius: 10%;
+}
+.youtube{
+    display: flex;
+    justify-content: center;
+}
