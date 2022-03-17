@@ -72,3 +72,7 @@ body{
     display: flex;
     justify-content: center;
 }
+.card3{
+    position: relative;
+    left: -10%;
+}
